@@ -1,6 +1,15 @@
 # Depth estimation
 
-Internship 2022
+## Internship 2022 at EdgeVision
+
+## Implementation of paper "High Quality Monocular Depth Estimation via Transfer Learning" [[1]](#1)
+
+## References
+<a id="1">[1]</a>
+Alhashim, Ibraheem, and Peter Wonka.
+"High quality monocular depth estimation via transfer learning."
+arXiv e-prints arXiv:1812.11941 (2018).
+
 
 ## Getting started
 
