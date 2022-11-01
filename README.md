@@ -2,7 +2,7 @@
 
 ## Internship 2022 at EdgeVision
 
-## Implementation of paper "[High Quality Monocular Depth Estimation via Transfer Learning] (https://arxiv.org/abs/1812.11941v2)" [[1]](#1)
+## Implementation of paper "[High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941v2)" [[1]](#1)
 
 ## References
 <a id="1">[1]</a>
